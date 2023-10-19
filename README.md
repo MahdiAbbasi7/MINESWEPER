@@ -1,4 +1,4 @@
-# MINESWEPER 
+# MINESWEEPER 
 ## Minesweeper Game developed with Python
 ### This is a Python Project that covers a lot of OOP concepts, and will be extremely helpful to get your first big Python Project being done!
 ![game](https://user-images.githubusercontent.com/77788727/190849615-eb89a137-996b-4360-93b9-02bd3f6ae570.jpeg)
